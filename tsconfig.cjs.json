@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "declaration": false,
+    "strictNullChecks": true,
+    "rootDir": "src",
+    "outDir": "lib/cjs",
+    "strict": true
+  },
+  "exclude": ["lib","dist","test"]
+}
