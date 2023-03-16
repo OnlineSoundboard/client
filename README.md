@@ -1,10 +1,11 @@
 # Online Soundboard Client
 
-## Usage
+## Install
 ```sh
 pnpm add online-soundboard-client
 ```
 
+## Usage
 ```ts
 import { Client } from 'online-soundboard-client'
 

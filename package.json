@@ -1,7 +1,7 @@
 {
   "name": "online-soundboard-client",
   "version": "0.1.0",
-  "repository": "git@github.com:OnlineSoundboard/client-.git",
+  "repository": "git@github.com:OnlineSoundboard/client.git",
   "author": "Dastan21",
   "license": "Apache-2.0",
   "files": [
